@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "firstname": "admin_",
+        "lastname": "admin_",
+        "age": 9999999998,
+        "address": {
+            "city": "Test City_"
+        },
+        "hobbies": [
+            "reading",
+            "painting",
+            "hiking"
+        ],
+        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
+        "username": "username_"
+    },
+    {
+        "id": "2",
+        "firstname": "222",
+        "lastname": "2222",
+        "age": "2299",
+        "address": {
+            "street": "Test Street",
+            "city": "Test City",
+            "zip": "12345"
+        },
+        "hobbies": [
+            "reading",
+            "painting",
+            "hiking"
+        ],
+        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "text": "some comment",
+        "articleId": "1",
+        "userId": "1"
+    },
+    {
+        "id": "1",
+        "text": "some comment",
+        "articleId": "7",
+        "userId": "1"
+    },
+    {
+        "id": "2",
+        "text": "some comment 2",
+        "articleId": "1",
+        "userId": "2"
+    },
+    {
+        "id": "3",
+        "text": "some comment 3",
+        "articleId": "1",
+        "userId": "1"
+    },
+    {
+        "text": "123123",
+        "articleId": "1",
+        "userId": "1",
+        "id": "4"
+    },
+    {
+        "text": "123213",
+        "articleId": "1",
+        "userId": "1",
+        "id": "5"
+    },
+    {
+        "text": "234234",
+        "articleId": "1",
+        "userId": "1",
+        "id": "6"
+    },
+    {
+        "text": "546656",
+        "articleId": "1",
+        "userId": "1",
+        "id": "7"
+    },
+    {
+        "text": "asdsads",
+        "articleId": "1",
+        "userId": "1",
+        "id": "8"
+    },
+    {
+        "text": "новый ебать коммент сука блять",
+        "articleId": "1",
+        "userId": "1",
+        "id": "9"
+    },
+    {
+        "text": "да на нахуй сука ебать",
+        "articleId": "1",
+        "userId": "1",
+        "id": "10"
+    },
+    {
+        "text": "23434",
+        "articleId": "1",
+        "userId": "1",
+        "id": "11"
+    },
+    {
+        "text": "zzz",
+        "articleId": "1",
+        "userId": "1",
+        "id": "12"
+    }
+]
