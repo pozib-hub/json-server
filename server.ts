@@ -21,18 +21,13 @@ server.use(
         origin: process.env.CLIENT_URL,
     })
 )
-
 // server.use(requestDelay)
-
 // проверяем, авторизован ли пользователь
 // server.use(checkAuthorization)
 
 server.use('/api', router)
 
-// server.use(DataBaseJSON)
-
 // запуск сервера
 server.listen(8000, () => {
     console.log('server is running on 8000 port')
-    console.log(process.env.CLIENT_URL);
 })

@@ -73,13 +73,33 @@ export interface IArticle {
     blocks: ArticleBlock[]
     userId: string
 }
+export interface INotification {
+    userId: string
+    id: string
+    title: string
+    description: string
+    href?: string
+}
+
+interface IRateBase {
+    id: string
+    userId: string
+    rate: number,
+    feedback: string
+}
+
+export interface IRateArticle extends IRateBase {
+    articleId: string
+}
+export interface IRateProfile extends IRateBase {
+    profileId: string
+}
 
 export type DB = {
     profiles: IProfile[]
     users: IUser[]
     articles: IArticle[]
     comments: IComment[]
+    notifications: INotification[]
+    rating_articles: IRateArticle[]
 }
-
-
-
