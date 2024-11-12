@@ -16,5 +16,23 @@
         "roles": [
             "MANAGER"
         ]
+    },
+    {
+        "id": "3",
+        "username": "pozib",
+        "password": "pozib",
+        "avatar": "",
+        "roles": [
+            "MANAGER"
+        ]
+    },
+    {
+        "id": "4",
+        "username": "testuser",
+        "password": "testuser",
+        "avatar": "",
+        "roles": [
+            "MANAGER"
+        ]
     }
 ]
