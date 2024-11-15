@@ -31,5 +31,21 @@
             "hiking"
         ],
         "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled"
+    },
+    {
+        "id": "4",
+        "firstname": "testuser",
+        "lastname": "testuser",
+        "age": 99,
+        "address": {
+            "city": "testuser"
+        },
+        "hobbies": [
+            "reading",
+            "painting",
+            "hiking"
+        ],
+        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
+        "username": "testuser"
     }
 ]

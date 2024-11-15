@@ -95,6 +95,11 @@ export interface IRateProfile extends IRateBase {
     profileId: string
 }
 
+export interface IUserSettings {
+    userId: string
+    [key: string]: string
+}
+
 export type DB = {
     profiles: IProfile[]
     users: IUser[]
@@ -102,4 +107,5 @@ export type DB = {
     comments: IComment[]
     notifications: INotification[]
     rating_articles: IRateArticle[]
+    userSettings: IUserSettings[]
 }

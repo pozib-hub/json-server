@@ -6,12 +6,15 @@
         "avatar": "https://w7.pngwing.com/pngs/247/564/png-transparent-computer-icons-user-profile-user-avatar-blue-heroes-electric-blue.png",
         "roles": [
             "ADMIN"
-        ]
+        ],
+        "features": {
+            "isArticleRatingEnabled": true
+        }
     },
     {
         "id": "2",
-        "username": "какой ",
-        "password": "то другой чел",
+        "username": "12345",
+        "password": "12345",
         "avatar": "https://w7.pngwing.com/pngs/247/564/png-transparent-computer-icons-user-profile-user-avatar-blue-heroes-electric-blue.png",
         "roles": [
             "MANAGER"
@@ -24,7 +27,10 @@
         "avatar": "",
         "roles": [
             "MANAGER"
-        ]
+        ],
+        "features": {
+            "isArticleRatingEnabled": false
+        }
     },
     {
         "id": "4",
@@ -33,6 +39,9 @@
         "avatar": "",
         "roles": [
             "MANAGER"
-        ]
+        ],
+        "features": {
+            "isArticleRatingEnabled": true
+        }
     }
 ]
