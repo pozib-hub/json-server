@@ -9,10 +9,12 @@ import commentsRouter from './commentsRouter'
 import notificationsRouter from './notificationsRouter'
 import ratingRouter from './ratingRouter'
 import userSettingsRouter from "./userSettingsRouter"
+import userRouter from "./userRouter"
 
 const router = Router()
 
 router.use('/', authRouter)
+router.use('/users', parseUserDataBody, checkAuthorization, userRouter)
 router.use('/profile', profileRouter)
 router.use('/articles', articlesRouter)
 router.use('/comments', commentsRouter)

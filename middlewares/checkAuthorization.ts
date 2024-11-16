@@ -8,7 +8,7 @@ function checkAuthorization(
     next: NextFunction,
 ) {
     if (!req.headers.authorization) {
-        return res.status(403).json({ message: 'AUTH ERROR' })
+        return res.status(401).json({ message: 'AUTH ERROR' })
     }
 
     return next()
