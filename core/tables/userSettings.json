@@ -3,5 +3,13 @@
         "userId": "4",
         "theme": "orange_theme",
         "isFirstVisit": false
+    },
+    {
+        "userId": "1",
+        "theme": "light_theme"
+    },
+    {
+        "userId": "3",
+        "theme": "dark_theme"
     }
 ]

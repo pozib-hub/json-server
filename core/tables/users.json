@@ -3,45 +3,117 @@
         "id": "1",
         "username": "admin",
         "password": "admin",
-        "avatar": "https://w7.pngwing.com/pngs/247/564/png-transparent-computer-icons-user-profile-user-avatar-blue-heroes-electric-blue.png",
+        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
         "roles": [
             "ADMIN"
         ],
         "features": {
-            "isArticleRatingEnabled": true
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": true
         }
     },
     {
-        "id": "2",
-        "username": "12345",
-        "password": "12345",
-        "avatar": "https://w7.pngwing.com/pngs/247/564/png-transparent-computer-icons-user-profile-user-avatar-blue-heroes-electric-blue.png",
-        "roles": [
-            "MANAGER"
-        ]
-    },
-    {
         "id": "3",
-        "username": "pozib",
-        "password": "pozib",
-        "avatar": "",
+        "username": "johndoe_1",
+        "password": "password_3",
+        "avatar": "https://example.com/avatar1.png",
         "roles": [
-            "MANAGER"
+            "USER"
         ],
         "features": {
-            "isArticleRatingEnabled": false
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": false
         }
     },
     {
         "id": "4",
         "username": "testuser",
-        "password": "testuser",
-        "avatar": "",
+        "password": "password_4",
+        "avatar": "https://www.carpentrybycraigross.com/wp-content/uploads/2015/12/test-user-female.png",
         "roles": [
-            "MANAGER"
+            "USER"
         ],
         "features": {
-            "isArticleRatingEnabled": true
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": true
+        }
+    },
+    {
+        "id": "5",
+        "username": "janesmith_1",
+        "password": "password_5",
+        "avatar": "https://example.com/avatar2.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": true
+        }
+    },
+    {
+        "id": "6",
+        "username": "marktaylor_1",
+        "password": "password_6",
+        "avatar": "https://example.com/avatar3.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": false,
+            "isAppRedesigned": true
+        }
+    },
+    {
+        "id": "7",
+        "username": "alicejohnson_1",
+        "password": "password_7",
+        "avatar": "https://example.com/avatar4.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": false
+        }
+    },
+    {
+        "id": "8",
+        "username": "tomwilson_1",
+        "password": "password_8",
+        "avatar": "https://example.com/avatar5.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": true
+        }
+    },
+    {
+        "id": "9",
+        "username": "emilydavis_1",
+        "password": "password_9",
+        "avatar": "https://example.com/avatar6.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": false,
+            "isAppRedesigned": false
+        }
+    },
+    {
+        "id": "10",
+        "username": "chrisbrown_1",
+        "password": "password_10",
+        "avatar": "https://example.com/avatar7.png",
+        "roles": [
+            "USER"
+        ],
+        "features": {
+            "isArticleRatingEnabled": true,
+            "isAppRedesigned": true
         }
     }
 ]

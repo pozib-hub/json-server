@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Javascript news СВЕЖАЯ",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png",
         "views": 1022,
         "createdAt": "26.04.2022",
         "userId": "1",
@@ -75,10 +75,10 @@
         "id": "2",
         "title": "Python news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/113415626/original/a17667d573bf34559bf0d35993ed76e57d43ad00/program-python-scripts-for-automation-and-data-mining.png",
         "views": 5204,
         "createdAt": "26.02.2022",
-        "userId": "2",
+        "userId": "3",
         "type": [
             "IT"
         ],
@@ -99,10 +99,10 @@
         "id": "3",
         "title": "Kotlin news 2019",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 94002,
         "createdAt": "26.02.2019",
-        "userId": "1",
+        "userId": "5",
         "type": [
             "IT"
         ],
@@ -123,10 +123,10 @@
         "id": "4",
         "title": "Scala news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://coursefreedl.com/wp-content/uploads/2020/01/Scala-Zero-To-Hero-Complete-Guide.jpg",
+        "img": "https://pluspng.com/img-png/scala-logo-png-scala-logo-1200x675.png",
         "views": 10222,
         "createdAt": "24.01.2022",
-        "userId": "1",
+        "userId": "7",
         "type": [
             "IT"
         ],
@@ -147,10 +147,10 @@
         "id": "5",
         "title": "Golang news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://cdn-front.kwork.ru/pics/t3/88/16350941-1630390388.jpg",
+        "img": "https://www.itsec.ru/hs-fs/hubfs/ISR/Golang.png?width=750&name=Golang.png",
         "views": 10222,
         "createdAt": "26.02.2020",
-        "userId": "1",
+        "userId": "2",
         "type": [
             "IT"
         ],
@@ -174,7 +174,7 @@
         "img": "https://andreyex.ru/wp-content/uploads/2018/05/Kak-ustanovit-Java-s-apt-na-Ubuntu-18.04.jpg",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "9",
         "type": [
             "IT"
         ],
@@ -198,7 +198,7 @@
         "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--oqV3akcU--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pgnw91fs7tpxn0wyeqh2.jpg",
         "views": 100,
         "createdAt": "21.02.2022",
-        "userId": "1",
+        "userId": "10",
         "type": [
             "IT"
         ],
@@ -219,10 +219,10 @@
         "id": "8",
         "title": "TypeScript news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1400/1*aTCN2ctKNoZupUCMP0hQuw.png",
+        "img": "https://i.ytimg.com/vi/ztk9WZClmLQ/maxresdefault.jpg",
         "views": 102222,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "8",
         "type": [
             "IT"
         ],
@@ -243,10 +243,10 @@
         "id": "9",
         "title": "Kotlin news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "7",
         "type": [
             "IT"
         ],
@@ -267,10 +267,10 @@
         "id": "10",
         "title": "Python news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/113415626/original/a17667d573bf34559bf0d35993ed76e57d43ad00/program-python-scripts-for-automation-and-data-mining.png",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "6",
         "type": [
             "IT"
         ],
@@ -291,10 +291,10 @@
         "id": "11",
         "title": "Kotlin news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "2",
         "type": [
             "IT"
         ],
@@ -315,7 +315,7 @@
         "id": "12",
         "title": "Python news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/113415626/original/a17667d573bf34559bf0d35993ed76e57d43ad00/program-python-scripts-for-automation-and-data-mining.png",
         "views": 1022,
         "createdAt": "26.02.2022",
         "userId": "1",
@@ -339,10 +339,10 @@
         "id": "13",
         "title": "Kotlin news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "4",
         "type": [
             "IT"
         ],
@@ -363,10 +363,10 @@
         "id": "14",
         "title": "Python news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/113415626/original/a17667d573bf34559bf0d35993ed76e57d43ad00/program-python-scripts-for-automation-and-data-mining.png",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "9",
         "type": [
             "IT"
         ],
@@ -387,10 +387,10 @@
         "id": "15",
         "title": "Kotlin news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "10",
         "type": [
             "IT"
         ],
@@ -411,10 +411,10 @@
         "id": "16",
         "title": "Python news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/113415626/original/a17667d573bf34559bf0d35993ed76e57d43ad00/program-python-scripts-for-automation-and-data-mining.png",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "10",
         "type": [
             "IT"
         ],
@@ -435,10 +435,10 @@
         "id": "17",
         "title": "Kotlin news",
         "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
+        "img": "https://yandex-images.clstorage.net/Upu4M9251/2810ee_Y/oUYWPAm_e3Yd9FhOoKR27__5zM7eT2WTpQTr3CMITeJE--ExD6jpHZMyhqR43zT4vGX-7NDernrb0OAREkzbCWQHM6jdez93qEEcDyXk9t-v2Bka716gM-DVT_nj_A0ysX6kEGooXYhjNjeELeySnzsCXXu2iQxYLATlUdeMyqiwdiXeva8JECwnKnkD5pSfLekJbXyfghHD9RkJEr14cNYpE8b62j6_oeeFk8ufE615U92YZRlcSk-1BGIGTIuMYkUXLEqceNHONnva0WaFPh8oOw8uvgBgsBXoCGM_OPAm6hNlGAoP3FFXdmLr3lIuCVFe6tQ5vuoNpRVjpv65PmBFtP0Z7IqCvqY4S9A0Ns8_COmOX05R0UCGC2tDraoglInhhphYLf5CFfZg6E-RnUvRDnu2ux1rvpYXkDecyCwiNmesGd9LIl2265qDpWYdbVqbTxzswMICZRg48A-qopWKEdYYecy_M5YmocgewO9b4r2oN_tNSq-2duIk7aitYBeUTfjtWMI8JRsLwXV07a05alxc3tIRg7Y4yvAsCBM2WRGHm7i__wI19pBoXkN9y_H9-WXrvVj8lhex9W37X0GXxh9b7njhzAS62eIGxz2PagqMTSwwMaAEqArjb2jj9BgSJYoJ789jlySSWd8iflmynevHCuyqDqTkQ3Rdy5wy12duKS5q4cwEy8gRlLTd7Ck7bM8vUiOwNLo6w2xa01fqEqa4eiytQZVnsxotEj3ZUewrJPifG4y1hEJlv5g_AaQ0bCs--TBtNxpZE9cGLZ36KawfT6GSokUquSCPWvCl63J3euoOPKIW1bCIvSANSDEuafQLHDquVUZgF_yKfXH2BQ3ZfXoBf8Q7WNOm5T3OiAk_T3yRkWAWidsQf2uxBdsRNsioH5-hVwWwW95Q_igS3kvXid77r9Z1YqT-e49R9fW-2KxrM4-2avvCNHbs3otZHm6NsEJyZAnoUY95A",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "6",
         "type": [
             "IT"
         ],
@@ -462,7 +462,7 @@
         "img": "https://www.mirea.ru/upload/iblock/7cf/vvp_rf2018_1.jpg",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "5",
         "type": [
             "ECONOMICS"
         ],
@@ -481,12 +481,12 @@
     },
     {
         "id": "18",
-        "title": "Научная статья - Биология",
+        "title": "Научная статья 1 - Биология",
         "subtitle": "БиологиЯ",
-        "img": "https://avatars.mds.yandex.net/get-zen_doc/2746556/pub_5f50dd7e1a1ddf4776aa5569_5f50decd2506f211d1de6284/scale_1200",
+        "img": "https://kartinkin.net/uploads/posts/2022-02/1645783899_19-kartinkin-net-p-kartinki-po-biologii-20.jpg",
         "views": 1022,
         "createdAt": "26.02.2022",
-        "userId": "1",
+        "userId": "8",
         "type": [
             "SCIENCE"
         ],
@@ -504,1923 +504,29 @@
         ]
     },
     {
-        "id": "19",
-        "title": "TypeScript features",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1640,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "20",
-        "title": "Webpack enhancements",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1725,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "2",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "21",
-        "title": "HTML5 API usage",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1009,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "2",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "22",
-        "title": "Webpack enhancements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 964,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "23",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1252,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
+        "title": "Научная статья 2 - Биология",
+        "subtitle": "БиологиЯ",
+        "img": "https://kartinkin.net/uploads/posts/2022-05/1652214942_9-kartinkin-net-p-biologiya-krasivie-kartinki-10.jpg",
+        "views": 1022,
+        "createdAt": "26.02.2022",
         "userId": "1",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
+        "type": [
+            "SCIENCE"
+        ],
+        "blocks": [],
+        "id": "guOLlgD"
     },
     {
-        "id": "24",
-        "title": "Node.js improvements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1948,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "25",
-        "title": "Webpack enhancements",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 266,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "26",
-        "title": "CSS Grid advancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1541,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "27",
-        "title": "TypeScript features",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1591,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "28",
-        "title": "JavaScript news",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1066,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "29",
-        "title": "Webpack enhancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1157,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "30",
-        "title": "React updates",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 208,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Tech"
-        ],
+        "title": "Научная статья 3 - Биология",
+        "subtitle": "БиологиЯ",
+        "img": "https://i.ebayimg.com/00/s/NjE0WDc2OA==/z/PhIAAOSw~oFZvBcK/$_57.JPG?set_id=8800005007",
+        "views": 1022,
+        "createdAt": "26.02.2022",
         "userId": "2",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "31",
-        "title": "CSS Grid advancements",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1278,
-        "createdAt": "24.08.2024",
         "type": [
-            "Tech"
+            "SCIENCE"
         ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "32",
-        "title": "TypeScript features",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 688,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "33",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1807,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "34",
-        "title": "Node.js improvements",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1682,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "35",
-        "title": "React updates",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 382,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "36",
-        "title": "CSS Grid advancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1460,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "37",
-        "title": "CSS Grid advancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 750,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "38",
-        "title": "HTML5 API usage",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1252,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "4",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "39",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 364,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "1",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "40",
-        "title": "Node.js improvements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1485,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "41",
-        "title": "Node.js improvements",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1406,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "42",
-        "title": "React updates",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1439,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "43",
-        "title": "React updates",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1811,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "44",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1750,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "45",
-        "title": "TypeScript features",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1323,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "46",
-        "title": "Node.js improvements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1472,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "47",
-        "title": "JavaScript news",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1133,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "48",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1630,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "49",
-        "title": "JavaScript news",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1646,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "50",
-        "title": "CSS Grid advancements",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1682,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "51",
-        "title": "HTML5 API usage",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1942,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "52",
-        "title": "Node.js improvements",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1121,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "53",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1329,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "54",
-        "title": "HTML5 API usage",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 774,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "55",
-        "title": "Webpack enhancements",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 657,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "56",
-        "title": "HTML5 API usage",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 8,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "57",
-        "title": "React updates",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1432,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "4",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "58",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 402,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "59",
-        "title": "Webpack enhancements",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 89,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "1",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "60",
-        "title": "HTML5 API usage",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 402,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "61",
-        "title": "CSS Grid advancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 695,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "62",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 111,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "63",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1501,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "64",
-        "title": "CSS Grid advancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1748,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "65",
-        "title": "CSS Grid advancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 998,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "66",
-        "title": "HTML5 API usage",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1611,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "67",
-        "title": "Webpack enhancements",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 385,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "68",
-        "title": "JavaScript news",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 922,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "69",
-        "title": "HTML5 API usage",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 453,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "70",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1958,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "71",
-        "title": "React updates",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 243,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "1",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "72",
-        "title": "Node.js improvements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 153,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "73",
-        "title": "React updates",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 653,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "74",
-        "title": "CSS Grid advancements",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 932,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "10",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "75",
-        "title": "HTML5 API usage",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1629,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "76",
-        "title": "Webpack enhancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1803,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "77",
-        "title": "Webpack enhancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1166,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "78",
-        "title": "Redux Toolkit tricks",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1644,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "4",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "79",
-        "title": "Webpack enhancements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1942,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "80",
-        "title": "CSS Grid advancements",
-        "subtitle": "Новые возможности в React 18",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1444,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "81",
-        "title": "CSS Grid advancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 530,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "82",
-        "title": "React updates",
-        "subtitle": "Что нового в JS за 2022 год?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 185,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "1",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "83",
-        "title": "JavaScript news",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 809,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "84",
-        "title": "Webpack enhancements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1201,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "7",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "85",
-        "title": "Node.js improvements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 705,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "86",
-        "title": "CSS Grid advancements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1434,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "2",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "87",
-        "title": "JavaScript news",
-        "subtitle": "Новые возможности CSS Grid в 2022 году",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1730,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "88",
-        "title": "TypeScript features",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1966,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Backend"
-        ],
-        "userId": "2",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "89",
-        "title": "React updates",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 356,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "8",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "90",
-        "title": "JavaScript news",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/ts.png",
-        "views": 1372,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "5",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "91",
-        "title": "React updates",
-        "subtitle": "Что нового в Node.js?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 1310,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "92",
-        "title": "Webpack enhancements",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 1248,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "93",
-        "title": "JavaScript news",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/nodejs.png",
-        "views": 392,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "94",
-        "title": "HTML5 API usage",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 669,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "6",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "95",
-        "title": "Node.js improvements",
-        "subtitle": "Изучаем новые типы в TypeScript",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 711,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "96",
-        "title": "JavaScript news",
-        "subtitle": "Интересные возможности HTML5 API",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/webpack.png",
-        "views": 116,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Development"
-        ],
-        "userId": "9",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "97",
-        "title": "TypeScript features",
-        "subtitle": "Как использовать Redux Toolkit?",
-        "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
-        "views": 1085,
-        "createdAt": "24.08.2024",
-        "type": [
-            "Frontend"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
-    },
-    {
-        "id": "98",
-        "title": "Webpack enhancements",
-        "subtitle": "Обновления Webpack в версии 5",
-        "img": "https://teknotower.com/wp-content/uploads/2021/01/react.png",
-        "views": 1940,
-        "createdAt": "24.08.2024",
-        "type": [
-            "IT"
-        ],
-        "userId": "3",
-        "blocks": [
-            {
-                "id": "1",
-                "type": "TEXT",
-                "title": "Заголовок этого блока",
-                "paragraphs": [
-                    "Программа, которую по традиции называют «Hello, world!», очень проста. Она выводит куда-либо фразу «Hello, world!»...",
-                    "JavaScript — это язык, программы на котором можно выполнять в разных средах...",
-                    "Существуют и другие способы запуска JS-кода в браузере. Так, если говорить об обычном использовании программ на JavaScript..."
-                ]
-            }
-        ]
+        "blocks": [],
+        "id": "6f91vPH"
     }
 ]

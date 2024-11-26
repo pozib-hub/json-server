@@ -13,24 +13,23 @@
             "hiking"
         ],
         "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
-        "username": "username_"
+        "username": "username_1"
     },
     {
-        "id": "2",
-        "firstname": "222",
-        "lastname": "2222",
-        "age": "2299",
+        "id": "3",
+        "firstname": "John",
+        "lastname": "Doe",
+        "age": 30,
         "address": {
-            "street": "Test Street",
-            "city": "Test City",
-            "zip": "12345"
+            "city": "New York",
+            "street": "5th Avenue"
         },
         "hobbies": [
-            "reading",
-            "painting",
-            "hiking"
+            "cycling",
+            "travelling"
         ],
-        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled"
+        "avatar": "https://example.com/avatar1.png",
+        "username": "johndoe_1"
     },
     {
         "id": "4",
@@ -45,7 +44,103 @@
             "painting",
             "hiking"
         ],
-        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
+        "avatar": "https://www.carpentrybycraigross.com/wp-content/uploads/2015/12/test-user-female.png",
         "username": "testuser"
+    },
+    {
+        "id": "5",
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "age": 25,
+        "address": {
+            "city": "Los Angeles",
+            "street": "Hollywood Blvd"
+        },
+        "hobbies": [
+            "photography",
+            "baking"
+        ],
+        "avatar": "https://masterpiecer-images.s3.yandex.net/146e5f2470fe11ee87c22aa0df1cd6e5:upscaled",
+        "username": "janesmith_1"
+    },
+    {
+        "id": "6",
+        "firstname": "Mark",
+        "lastname": "Taylor",
+        "age": 40,
+        "address": {
+            "city": "Chicago",
+            "street": "Lake Shore Drive"
+        },
+        "hobbies": [
+            "golfing",
+            "reading"
+        ],
+        "avatar": "https://example.com/avatar3.png",
+        "username": "marktaylor_1"
+    },
+    {
+        "id": "7",
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "age": 22,
+        "address": {
+            "city": "San Francisco",
+            "street": "Mission Street"
+        },
+        "hobbies": [
+            "dancing",
+            "painting"
+        ],
+        "avatar": "https://example.com/avatar4.png",
+        "username": "alicejohnson_1"
+    },
+    {
+        "id": "8",
+        "firstname": "Tom",
+        "lastname": "Wilson",
+        "age": 28,
+        "address": {
+            "city": "Seattle",
+            "street": "Pike Street"
+        },
+        "hobbies": [
+            "hiking",
+            "swimming"
+        ],
+        "avatar": "https://example.com/avatar5.png",
+        "username": "tomwilson_1"
+    },
+    {
+        "id": "9",
+        "firstname": "Emily",
+        "lastname": "Davis",
+        "age": 33,
+        "address": {
+            "city": "Boston",
+            "street": "Beacon Street"
+        },
+        "hobbies": [
+            "running",
+            "cooking"
+        ],
+        "avatar": "https://example.com/avatar6.png",
+        "username": "emilydavis_1"
+    },
+    {
+        "id": "10",
+        "firstname": "Chris",
+        "lastname": "Brown",
+        "age": 35,
+        "address": {
+            "city": "Austin",
+            "street": "Congress Avenue"
+        },
+        "hobbies": [
+            "gaming",
+            "photography"
+        ],
+        "avatar": "https://example.com/avatar7.png",
+        "username": "chrisbrown_1"
     }
 ]
