@@ -1,0 +1,1639 @@
+[
+    {
+        "serviceType": "B2B",
+        "serviceTypeName": "Автопополнение",
+        "services": [
+            {
+                "serviceId": "0312",
+                "name": "Заказ Т* (non public)",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "TEST007",
+                "name": "тест 123",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "010",
+                "name": "Бесплатный труд ",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "2388",
+                "name": "Веселые",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1uiu",
+                "name": "serviceTypeb2b",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "550",
+                "name": "23.04",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "тест2305",
+                "name": "23.05 тест",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "911",
+                "name": "Тестируем оферты 30.05 абабаба",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "test_fedorenko",
+                "name": "test_fedorenko",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "9110000",
+                "name": "тест услуги 24.07",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1111211344",
+                "name": "Тест b2b VKA-1",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "67",
+                "name": "Скидка при оформлении заказа11",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1333",
+                "name": "Проверка дефекта цены",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "11333",
+                "name": "ТЕСТ122",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "176к4754",
+                "name": "тест 150",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "21323",
+                "name": "Дефект В2В ",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "097341",
+                "name": "Задача 464",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "serviceType": "B2C",
+        "serviceTypeName": "Клик",
+        "services": [
+            {
+                "serviceId": "кодУслуги321",
+                "name": "Какая-то услуга",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "100",
+                "name": "Тест 18.04",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1olo",
+                "name": "Тестоферты",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "6754645",
+                "name": "услуга для нт2",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "29061994",
+                "name": "Тест промокодов и акций",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "00",
+                "name": "Проверка цены т2вара В2С",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "88",
+                "name": "386 B2C Проверка дефекта",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "11",
+                "name": "Тест",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "342523",
+                "name": "Veretennikov_1",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "3422199",
+                "name": "cl-t80",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "983247",
+                "name": "cl-t170",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "0921331",
+                "name": "Veretennikov-2",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "453543534534папр",
+                "name": "нвокая 4",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1311",
+                "name": "Проверка оптимизации B2C",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "12444",
+                "name": "Выпил дата спайс В2С",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "223",
+                "name": "ДЛЯ СТАТУСА",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "serviceType": "null",
+        "serviceTypeName": "null",
+        "services": [
+            {
+                "serviceId": "q1",
+                "name": "service",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    }
+                ],
+                "deliveryTypes": [],
+                "paymentTypes": [
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "serviceType": "B2B2C",
+        "serviceTypeName": "Маркет",
+        "services": [
+            {
+                "serviceId": "Уникальный код",
+                "name": "Тестирование b2b dataspace",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "789456",
+                "name": "Сберапи",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "оперативка",
+                "name": "Заказ оперативки",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "1oio",
+                "name": "serviceTypeb2c",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "11111",
+                "name": "Химчистка стула",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "4563451",
+                "name": "Cl-T144",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "7986453",
+                "name": "29-31",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "0997231",
+                "name": "485 Test",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            },
+            {
+                "serviceId": "11111333",
+                "name": "Выпил дата спас B2B2C",
+                "sellers": [
+                    {
+                        "id": "7064558863575285761",
+                        "sellerName": "ПАО Сбербанк (ПРОМ)"
+                    },
+                    {
+                        "id": "7358825040854188033",
+                        "sellerName": "Тройка"
+                    }
+                ],
+                "deliveryTypes": [
+                    {
+                        "name": "IMMEDIATE",
+                        "description": "Моментальная выдача"
+                    },
+                    {
+                        "name": "DELIVERY",
+                        "description": "Доставка"
+                    },
+                    {
+                        "name": "PICKUP",
+                        "description": "Самовывоз"
+                    }
+                ],
+                "paymentTypes": [
+                    {
+                        "name": false,
+                        "description": "Бесплатная"
+                    },
+                    {
+                        "name": true,
+                        "description": "Платная"
+                    }
+                ]
+            }
+        ]
+    }
+]

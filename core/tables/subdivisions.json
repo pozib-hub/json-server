@@ -1,0 +1,131 @@
+[
+    {
+        "id": "1",
+        "name": "ПАО Сбербанк (ПРОМ)",
+        "defaultAddressId": "2",
+        "defaultAddressName": "Курская обл., г. Курск, ул. Вавилова, д. 9",
+        "addresses": [
+            {
+                "id": "1",
+                "name": "Курская обл., г. Курск, ул. Вавилова, д. 9",
+                "main": true,
+                "workSchedule": {
+                    "id": "1",
+                    "days": [
+                        {
+                            "id": "7358485784465637378",
+                            "workingDay": true,
+                            "startWork": "09:00",
+                            "finishWork": "17:00",
+                            "startBreak": "13:30",
+                            "finishBreak": "14:30"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "2",
+                "name": "22222",
+                "main": true,
+                "workSchedule": {
+                    "id": "1",
+                    "days": [
+                        {
+                            "id": "7358485784465637378",
+                            "workingDay": true,
+                            "startWork": "09:00",
+                            "finishWork": "17:00",
+                            "startBreak": "13:30",
+                            "finishBreak": "14:30"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "3",
+                "name": "333333333333",
+                "main": true,
+                "workSchedule": {
+                    "id": "1",
+                    "days": [
+                        {
+                            "id": "7358485784465637378",
+                            "workingDay": true,
+                            "startWork": "09:00",
+                            "finishWork": "17:00",
+                            "startBreak": "13:30",
+                            "finishBreak": "14:30"
+                        }
+                    ]
+                }
+            }
+        ],
+        "phone": null
+    },
+    {
+        "name": "th11199911",
+        "defaultAddressName": "",
+        "defaultAddressId": "4387001c-0010-4cac-956b-55c782c4f134",
+        "addresses": [
+            {
+                "id": "4387001c-0010-4cac-956b-55c782c4f134",
+                "name": "6",
+                "workSchedule": {
+                    "finishBreak": "6",
+                    "finishWork": "6",
+                    "startBreak": "6",
+                    "startWork": "6"
+                }
+            }
+        ],
+        "id": "139b69eb-92eb-46de-b068-a09b833d9b5c"
+    },
+    {
+        "name": "ulbi-server",
+        "defaultAddressName": "1",
+        "defaultAddressId": "a8c8597b-7d66-4733-9d36-3922c5ae4a60",
+        "addresses": [
+            {
+                "id": "a8c8597b-7d66-4733-9d36-3922c5ae4a60",
+                "name": "1",
+                "workSchedule": {
+                    "finishBreak": "1",
+                    "finishWork": "1",
+                    "startBreak": "1",
+                    "startWork": "1"
+                }
+            },
+            {
+                "id": "71674e76-68d0-4278-9a31-f65cccb5b8e1",
+                "name": "33",
+                "workSchedule": {
+                    "finishBreak": "3",
+                    "finishWork": "3",
+                    "startBreak": "3",
+                    "startWork": "3"
+                }
+            },
+            {
+                "id": "05720750-655d-49cb-9dd0-ed43351abe51",
+                "name": "6",
+                "workSchedule": {
+                    "finishBreak": "6",
+                    "finishWork": "6",
+                    "startBreak": "6",
+                    "startWork": "6"
+                }
+            },
+            {
+                "id": "17f443e4-6907-4e27-8adf-58e0443e3e53",
+                "name": "7",
+                "workSchedule": {
+                    "finishBreak": "7",
+                    "finishWork": "7",
+                    "startBreak": "7",
+                    "startWork": "7"
+                }
+            }
+        ],
+        "id": "4db30be8-8c5a-488d-ae76-910f69b1cb52"
+    }
+]

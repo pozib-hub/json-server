@@ -1,17 +1,18 @@
-export interface IAddress {
-    street: string
-    city: string
-    zip: string
-}
-
 export interface IProfile {
-    id: string,
+    id: string
     firstname: string
     lastname: string
     age: string
-    address: IAddress
     hobbies: string[]
-    avatar: null
+    avatar: string
+    subdivision: {
+        id: string
+        name?: string
+    } | null
+    address: {
+        id: string
+        name?: string
+    } | null
 }
 
 export interface IUser {
@@ -31,33 +32,33 @@ export interface IComment {
 
 interface IBaseBlock {
     id: string
-    type: "CODE" | "IMAGE" | "TEXT"
+    type: 'CODE' | 'IMAGE' | 'TEXT'
 }
 
 export interface ICodeBlock extends IBaseBlock {
     code: string
-    type: "CODE"
+    type: 'CODE'
 }
 
 export interface IImageBlock extends IBaseBlock {
     src: string
-    type: "IMAGE"
+    type: 'IMAGE'
     title: string
 }
 
 export interface ITextBlock extends IBaseBlock {
     paragraphs: string[]
-    type: "TEXT"
+    type: 'TEXT'
     title?: string
 }
 
 export enum ArticleType {
-    SCIENCE = "Science",
-    FRONTEND = "Frontend",
-    TECH = "Tech",
-    IT = "IT",
-    BACKEND = "Backend",
-    DEVELOPMENT = "Development",
+    SCIENCE = 'Science',
+    FRONTEND = 'Frontend',
+    TECH = 'Tech',
+    IT = 'IT',
+    BACKEND = 'Backend',
+    DEVELOPMENT = 'Development',
 }
 
 export type ArticleBlock = ICodeBlock | IImageBlock | ITextBlock
@@ -84,7 +85,7 @@ export interface INotification {
 interface IRateBase {
     id: string
     userId: string
-    rate: number,
+    rate: number
     feedback: string
 }
 
@@ -100,6 +101,31 @@ export interface IUserSettings {
     [key: string]: string
 }
 
+export interface IAddress {
+    id: string
+    name: string
+    workSchedule: {
+        id: string
+        workSchedule: {
+            id: string
+            days: {
+                startWork: string
+                finishWork: string
+                startBreak: string
+                finishBreak: string
+            }
+        }
+    }
+}
+
+export interface ISubdivision {
+    id: string
+    name: string
+    defaultAddressId: string
+    defaultAddressName: string
+    addresses: IAddress[]
+}
+
 export type DB = {
     profiles: IProfile[]
     users: IUser[]
@@ -108,4 +134,5 @@ export type DB = {
     notifications: INotification[]
     rating_articles: IRateArticle[]
     userSettings: IUserSettings[]
+    subdivisions: ISubdivision[]
 }
